@@ -1,0 +1,5 @@
+5
+1 Mikhail_Streltsov 3 7
+2 Vasya_Vasyn 4 8
+3 Clown_Clowns 3 6
+4 Petya_Petya 4 5

@@ -1,0 +1,13 @@
+file = open('/Users/mikhailstreltsov/Desktop/учеба/pythonProject/lr7/lr5.txt','r')
+f = file.readline()
+print(f"а) Первая строка {f[0]}")
+print(f"б) Пятая строка {f[4]}")
+print(f"в) Первые 5 строк {f[0:5]}")
+print(f"г) со 1-й по 2-ую {f[0:2]}")
+file.close()
+
+file = open('/Users/mikhailstreltsov/Desktop/учеба/pythonProject/lr7/lr5.txt','r')
+f = file.read()
+print("д) Все строки")
+print(f)
+file.close()
